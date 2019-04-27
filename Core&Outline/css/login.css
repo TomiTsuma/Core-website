@@ -1,0 +1,104 @@
+﻿/* Bordered form */
+form {
+  border: solid #ffffff;
+	background-color: #ffffff;
+  margin: 0px;
+  height: 100vh;
+
+}
+
+/* Full-width inputs */
+input[type=text], {
+  position: absolute;
+  top: 200px;
+  left: 70px;
+  width: 400px;
+  text-align: right;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+ input[type=password]
+ {
+   position: absolute;
+   top: 0px;
+   left: 70px;
+   width: 180px;
+   height: 15px;
+   text-align: right;
+   padding: 12px 20px;
+   margin: 8px 0;
+   display: inline-block;
+   border: 1px solid #ccc;
+   box-sizing: border-box;
+ }
+ input[type =checkbox]
+ {
+   position: absolute;
+   top: 350px;
+   left: 500px;
+   text-align: right;
+   padding: 12px 20px;
+   margin: 8px 0;
+   display: inline-block;
+   border: 1px solid #ccc;
+   box-sizing: border-box;
+ }
+.lblUsr
+{
+    position: absolute;
+    top:200px;
+    left: 500px;
+    text-align: right;
+
+
+}
+.lblPass
+{
+    top: 300px;
+    left: 500px;
+    text-align: right;
+    position: absolute;
+
+}
+/* Set a style for all buttons */
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 200px;
+  position: absolute;
+  left: 500px;
+  top: 400px;
+}
+
+/* Add a hover effect for buttons */
+button:hover
+ {
+  opacity: 0.8;
+}
+
+
+.imgcontainer {
+  text-align: left;
+  margin: 0px;
+  height: 60px;
+  position: absolute;
+  top: 150px;
+}
+
+/* Avatar image */
+img.avatar {
+  width: 500px;
+  border-radius: 50%;
+}
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+}

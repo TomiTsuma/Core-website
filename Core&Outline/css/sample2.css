@@ -1,0 +1,49 @@
+img
+{
+  position: absolute;
+}
+h1
+{
+  position: absolute;
+  text-align: center;
+  top: 200px;
+  left: 400px;
+  color: #ffff;
+}
+.abt
+{
+  position: absolute;
+  color: #acb4c1;
+
+}
+.abt a
+{
+  color: #acb4c1;
+}
+.home
+{
+  position: absolute;
+  left: 200px;
+}
+.home a
+{
+  color: #acb4c1;
+}
+.contacts
+{
+  position: absolute;
+  left: 400px;
+}
+.contacts a
+{
+  color: #acb4c1;
+}
+.experience
+{
+  position: absolute;
+  left: 800px;
+}
+.experience a
+{
+  color: #acb4c1;
+}

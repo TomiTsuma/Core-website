@@ -1,0 +1,34 @@
+h1
+{
+  text-align: center;
+
+}
+.tay
+{
+  position: absolute;
+  top: 200px;
+  margin-left: 500px;
+
+}
+.tay img
+{
+  border-radius: 20%;
+}
+.gray
+{
+  position: absolute;
+  top: 200px;
+
+}
+.gray img
+{
+  border-radius: 20%;
+}
+.tay :hover
+{
+  height: 350px;
+}
+.gray :hover
+{
+  height: 350px;
+}

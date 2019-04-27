@@ -1,0 +1,97 @@
+body
+{
+  position: absolute;
+}
+
+.menu
+{
+
+  position: fixed;
+  top: 0px;
+  height: 100vh;
+  width: 30vw;
+  margin-left: 3px;
+  border-right-style: solid;
+  border-color: #7f8896;
+  background-color: #7f8896;
+}
+.menu img
+{
+  height: 200px;
+  border-radius: 50%;
+  margin-left: 50px;
+
+  margin-top: 50px;
+}
+.menu h1
+{
+  text-align: center;
+  color: #ffff;
+}
+
+.menu li
+{
+  text-align: center;
+  height: 40px;
+}
+
+.about
+{
+  position: absolute;
+  margin-left: 340px;
+  margin-top: 0px;
+  width: 70vw;
+  height: 100vh;
+}
+.about h1
+{
+  text-align: left;
+}
+.about p
+{
+  text-align: left;
+}
+.about h2
+{
+  text-align: left;
+}
+.education
+{
+  position: absolute;
+  margin-left: 340px;
+  margin-top: 100vh;
+  width: 70vw;
+  height: 100vh;
+}
+.education h1
+{
+  text-align: left;
+}
+.education p
+{
+  text-align: left;
+}
+.education h2
+{
+  text-align: left;
+}
+.contacts
+{
+  position: absolute;
+  margin-left: 340px;
+  margin-top: 200vh;
+  width: 70vw;
+  height: 100vh;
+}
+.contacts h1
+{
+  text-align: left;
+}
+.contacts p
+{
+  text-align: left;
+}
+.contacts h2
+{
+  text-align: left;
+}
